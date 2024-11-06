@@ -6,7 +6,7 @@
   View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
  </p>
  <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+  View <a href="https://www.loom.com/share/7a0aad8171124cec907e2079d9b1a463?sid=8903086b-7309-463a-b4b1-9a3b3092cf82">Live demo</a>.
  </p>
 
 ## Setup
