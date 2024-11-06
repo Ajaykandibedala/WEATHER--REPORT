@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://Weather-dashboard (1).png" width="100%">
+<img src="https://github.com/Ajaykandibedala/WEATHER--REPORT/blob/befdd73beb8246775270af7e58b89c72efb2ccd3/Weather-dashboard%20(1)%20(1).png" width="100%">
 </p>
 
 <p align="center">
